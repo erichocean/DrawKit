@@ -1,3 +1,8 @@
+If you're looking for the LGPL licensed DrawKit, please see 
+https://github.com/DrawKit/DrawKit
+
+I am maintaining this BSD licensed fork for eventual use in iOS apps.
+
 DrawKit
 =======
 
